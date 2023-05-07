@@ -1,0 +1,36 @@
+<div class="Fatma">
+    <div class="d-flex row justify-content-between">
+      <div class="col-md-3 col-sm-11 text-center">
+       
+        <a class="b">birinci table</a>
+        <a>Otto2</a>
+        <a>@mdo2</a>
+        <a>Mark2</a>
+        </tbody>
+      </div>
+      <div class="col-md-3 col-sm-11 text-center">
+        
+            <a class="th">ikinci table</a>
+            <a>Otto2</a>
+            <a>@mdo2</a>
+            <a>Mark2</a>
+        
+      </div>
+      <div class=" col-md-3 col-sm-11 text-center">
+        
+          <a  class="b">3cu table</a>
+          <a >First</a>
+          <a>Last</a>
+          <a>Handle</a>
+        
+      </div>
+      <div class=" col-md-3 col-sm-11 text-center">
+        
+        <a  class="b">4cu table</a>
+        <a >First</a>
+        <a>Last</a>
+        <a>Handle</a>
+      
+    </div>
+    </div>
+  </div>
